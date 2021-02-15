@@ -19,9 +19,9 @@ I'm gaining experience to become a front-end developer and work for some thing t
    </div>
     
    <div>
-     <h3> Additional information </h3>
+     <h2> Additional information </h2>
         <ul>
-          <li> I wrote some articles at [Medium](https://medium.com/luca-clemente)</li>
+          <li> I wrote some articles at [Medium](https://medium.com/luca-clemente) </li>
           
 
 
