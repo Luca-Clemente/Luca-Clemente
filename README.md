@@ -19,7 +19,7 @@ I'm gaining experience to become a front-end developer and work for some thing t
    </div>
     
    <div>
-      <h2> Additional information </h2>
+      <h2>:clipboard: Additional information </h2>
         <ul>
           <li>I wrote some articles about technology at Medium</li>
           <li>I am a volunteer in an educational movement that seeks to develop the full potential of youth and children</li>
