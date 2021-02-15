@@ -1,6 +1,6 @@
 ### Hi there  :smiley:
 
-####About Me
+<h2> About me </h2>
 
 
 - 🌱 I’m currently learning:
