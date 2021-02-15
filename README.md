@@ -6,7 +6,9 @@ My name is Luca CLemente and i'm a student  of Internet Systems. I'm gaining exp
 - JavaScript
 - Git
 - Package Managers
+<br>
+
 - 📫 How to reach me: 
-[LinkedIn profile] (https://www.linkedin.com/in/luca-clemente-366419202/)
+[LinkedIn](https://www.linkedin.com/in/luca-clemente/)
 
 
