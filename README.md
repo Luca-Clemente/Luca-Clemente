@@ -1,4 +1,4 @@
-<h1 text-align="center">Hi there  :smiley:</h1>
+<h1 align="center">Hi there  :smiley:</h1>
 
 <div>
 <h2> About me </h2>
