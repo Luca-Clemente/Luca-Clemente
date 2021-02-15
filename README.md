@@ -9,9 +9,11 @@ I'm gaining experience to become a front-end developer and work for some thing t
   
   <h2> :pushpin: Knowledge </h2>
     <ul>
-      <li> HTML
-      <li> CSS
-      <li> Javascript
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Git</li>
+  <li>Internet knowledge - How DNS works, HTTP, IP, Bits and more </li>
     </ul>
 
 
