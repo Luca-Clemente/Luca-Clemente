@@ -1,4 +1,4 @@
-### Hi there  :smiley:
+<h1>Hi there  :smiley:</h1>
 
 <h2> About me </h2>
 
