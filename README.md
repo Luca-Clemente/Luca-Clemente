@@ -21,17 +21,10 @@ I'm gaining experience to become a front-end developer and work for some thing t
    <div>
       <h2> Additional information </h2>
         <ul>
-          <li>I wrote some articles at <a href="https://medium.com/luca-clemente" alt="Medium" Medium </li>
-  
-  
-  
+          <li>I wrote some articles about technology at Medium</li>
+          <li>I am a volunteer in an educational movement that seeks to develop the full potential of youth and children</li>
         </ul>
-        
-
-
-
-
-  </div>
+    </div>
     
 
 
