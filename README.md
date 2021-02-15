@@ -12,7 +12,6 @@ I'm gaining experience to become a front-end developer and work for some thing t
       <li> HTML
       <li> CSS
       <li> Javascript
-
     </ol>
 
 
