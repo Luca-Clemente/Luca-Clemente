@@ -8,10 +8,10 @@ I'm gaining experience to become a front-end developer and work for some thing t
 </div>
   
   <h2> :pushpin: Knowledge </h2>
-    <ol>
+    <ul>
       <li> HTML
       <li> CSS
       <li> Javascript
-    </ol>
+    </ul>
 
 
