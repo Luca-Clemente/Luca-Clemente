@@ -9,6 +9,6 @@ My name is Luca CLemente and i'm a student  of Internet Systems. I'm gaining exp
 <br>
 
 - 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/luca-clemente/)
+- [LinkedIn](https://www.linkedin.com/in/luca-clemente-366419202/)
 
 
