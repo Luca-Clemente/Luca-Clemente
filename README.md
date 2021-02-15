@@ -20,7 +20,7 @@ I'm gaining experience to become a front-end developer and work for some thing t
     
    <div>
   <h2> Additional information </h2>
-   I wrote some articles at [Medium](https://medium.com/luca-clemente) 
+   I wrote some articles at [Medium](https://medium.com/luca-clemente)
           
 
 
