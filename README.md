@@ -29,7 +29,7 @@ I'm gaining experience to become a front-end developer and work for some thing t
   
   <div>
     <h2> :email: Contact </h2>
-      <p> You can contact me here, on LinkedIn (https://www.linkedin.com/in/luca-clemente-366419202/) and on my e-mail -clementluca6@gmail.com</p>  
+      <p> You can contact me on GitHub, on <a href="https://www.linkedin.com/in/luca-clemente-366419202/">LinkedIn and on my e-mail (clementluca6@gmail.com) </p>  
   
   
   
