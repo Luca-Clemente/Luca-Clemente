@@ -1,35 +1,35 @@
-<h1 align="center">Hi there  :smiley:</h1>
+ # Hi there  :smiley:
 
-<div>
-<h2> About me </h2>
-<p>My name is Luca Clemente, i'm a student of Internet Systems at Fatec (college of technology of Sao Paulo state - Brazil). 
-I'm gaining experience to become a front-end developer and work for some thing that i love.</p>
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
-</div>
+
+## About me 
+
+My name is Luca Clemente, i'm a student of Internet Systems at Fatec (college of technology of Sao Paulo state - Brazil). 
+I'm gaining experience to become a front-end developer and work for some thing that i love.
+
   
-  <div>
-  <h2> :pushpin: Knowledge </h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Javascript</li>
-      <li>Git</li>
-      <li>Internet knowledge - How DNS works, HTTP, IP, Bits and more </li>
-    </ul>
-   </div>
+ ## Knowledge 📌
     
-   <div>
-      <h2>:clipboard: Additional information </h2>
-        <ul>
-          <li>I wrote some articles about technology at <a href="https://medium.com/luca-clemente">Medium</a></li>
-          <li>I am a volunteer in an educational movement that seeks to develop the full potential of youth and children</li>
-        </ul>
-    </div>
+ - HTML5
+ - CSS3
+ - Git (basic)
+ - Javascript (learning now)
+ - Internet knowledge - how DNS work, HTTP, IP etc
+    
+   
+    
+   
+     ## Additional information 📋
+       
+  - I wrote some articles about technology at Medium
+  - I am a volunteer in an educational movement that seeks to develop the full potential of youth and children
+       
+    
     
   
-  <div>
-    <h2> :email: Contact </h2>
-      <p> You can contact me on GitHub, on <a href="https://www.linkedin.com/in/luca-clemente-366419202/">LinkedIn <a/> and on my e-mail (clementluca6@gmail.com) </p>
-  </div>
+ 
+  ## Contact ✉️
   
-  <h3> Bye :wave: </h3>
+   You can contact me on GitHub, on <a href="https://www.linkedin.com/in/luca-clemente-366419202/">LinkedIn <a/> and on my e-mail (clementluca6@gmail.com) 
+
+  
+ ### Bye 👋
